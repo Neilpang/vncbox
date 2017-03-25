@@ -1,0 +1,2 @@
+# vncbox
+vnc with openbox
